@@ -12,3 +12,5 @@ Placement of a pull quote on a page may be defined in a publication's or website
 Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.
 
 A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use Signal</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1347165127036977153?ref_src=twsrc%5Etfw">January 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
